@@ -1,0 +1,6 @@
+solution to this error 
+
+Installation of the "Microsoft Windows SDK for Windows 7" product has reported the following error: Please refer to Samples\Setup\HTML\ConfigDetails.htm document for further information.
+
+http://stackoverflow.com/questions/19366006/error-when-installing-windows-sdk-7-1
+http://social.msdn.microsoft.com/Forums/windowsdesktop/en-US/381299c9-1bf4-44d4-989c-871735c6b4ca/windows-sdk-for-windows-7-and-net-framework-4-wont-install?forum=windowssdk
