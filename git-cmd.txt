@@ -1,0 +1,8 @@
+sync local git with a remote one
+http://stackoverflow.com/questions/6373277/git-sync-local-repo-with-remote-one
+
+git fetch # This updates 'remote' portion of local repo. 
+git reset --hard origin/<your-working-branch>
+# this will sync your local copy with remote content, discarding any committed
+# or uncommitted changes.
+
