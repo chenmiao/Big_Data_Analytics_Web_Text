@@ -7,6 +7,8 @@ git commit -m 'write something here'
 git remote add origin https://github.com/username/Hello-World.git
 git push origin master
 
+to commit all changes that occurred in the current directory
+git add -u .
 
 *sync local git with a remote one
 http://stackoverflow.com/questions/6373277/git-sync-local-repo-with-remote-one
