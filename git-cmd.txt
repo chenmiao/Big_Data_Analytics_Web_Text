@@ -1,4 +1,14 @@
-sync local git with a remote one
+Github tutorial
+https://help.github.com/articles/create-a-repo
+
+to commit
+git add fileToCommit
+git commit -m 'write something here'
+git remote add origin https://github.com/username/Hello-World.git
+git push origin master
+
+
+*sync local git with a remote one
 http://stackoverflow.com/questions/6373277/git-sync-local-repo-with-remote-one
 
 git fetch # This updates 'remote' portion of local repo. 
